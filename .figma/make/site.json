@@ -1,0 +1,10 @@
+{
+  "description": "Connects students to schedule and conduct free technical and behavioral mock interviews with peer feedback and performance tracking.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
