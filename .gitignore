@@ -22,3 +22,6 @@ logs/
 # next.js
 .next/
 next-env.d.ts
+
+# Local dependency cache
+/.pnpm-store/
