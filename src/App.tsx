@@ -1,3 +1,5 @@
+"use client";
+
 import Header from "./components/Header";
 import IntervieweeView from "./components/IntervieweeView";
 import InterviewerView from "./components/InterviewerView";
